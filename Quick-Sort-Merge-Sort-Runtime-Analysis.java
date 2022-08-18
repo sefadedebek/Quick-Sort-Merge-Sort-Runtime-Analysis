@@ -68,7 +68,7 @@ public class Quick-Sort-Merge-Sort-Runtime-Analysis {
 		
 		long estimatedTime3 = endTime3 - startTime3;
 		
-		System.out.println("�nsertion sort �al��ma zaman�: " + estimatedTime3 + " Nanosaniye");
+		System.out.println("Insertion sort �al��ma zaman�: " + estimatedTime3 + " Nanosaniye");
 		System.out.println();
 
  
